@@ -1,0 +1,84 @@
+.logo {
+  float: left;
+    width: 200px;
+    color: #40a9ff;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+    margin-left: -50px;
+    margin-top: -6px;
+    text-align: center;
+  }
+
+.logo-img {
+  position: relative;
+  width: 100%;
+  height: 70px;
+}
+
+.logoout {
+   float: left;
+    width: 150px;
+    color: #40a9ff;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+  }
+  
+  .ant-row-rtl .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+  
+  .site-layout-background {
+    background: #fff;
+  }
+
+  .ant-menu.ant-menu-dark .ant-menu-item-selected {
+    background-color: #123b5d !important;
+    font-weight: bold;
+  }
+
+  .ant-menu.ant-menu-dark .ant-menu-item-active:hover {
+    background-color: #123b5d; 
+  }
+
+  .ant-menu-submenu:hover {
+    background-color: #123b5d; 
+  }
+
+  .ant-menu-submenu-selected .ant-menu-submenu-title{
+    background-color: #123b5d; 
+  }
+
+ .ant-menu-submenu-popup .ant-menu-item-active:hover {
+  background-color: #123b5d; 
+  }
+
+  .ant-menu-submenu-popup .ant-menu-item-selected {
+    background-color: #123b5d !important;
+    font-weight: bold;
+    }
+
+  .header-background {
+    background: white !important;
+  }
+  .right-pad .user-options:hover {
+    background: white !important;
+    color: black !important;
+  }
+  .right-pad .ant-menu-submenu-title:hover {
+    color: black !important;
+  }
+  .right-pad .ant-menu-submenu-title {
+    color: black !important;
+  }
+  .ant-menu .ant-menu-item:hover {
+    background: #eff2f5 !important;
+    color: black !important;
+  }
+ 
+  .ant-menu.ant-menu-dark .ant-menu-item-active:hover {
+    background-color: #123b5d !important; 
+    color: #dee2e6 !important;
+  }
